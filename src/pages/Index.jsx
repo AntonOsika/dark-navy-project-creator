@@ -10,7 +10,6 @@ const Index = () => {
     <Box bg="navy.900" minH="100vh" color="gray.200" py={8}>
       <Flex justify="flex-end" px={8} mb={8}>
         <Menu>
-          <MenuButton as={Avatar} src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx1c2VyJTIwYXZhdGFyfGVufDB8fHx8MTcxMDk1MDU2N3ww&ixlib=rb-4.0.3&q=80&w=1080" cursor="pointer" />
           <MenuList bg="navy.800">
             <MenuItem>Profile</MenuItem>
             <MenuItem>Settings</MenuItem>
